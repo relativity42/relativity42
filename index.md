@@ -1,5 +1,5 @@
 # about
 
-Hello.
+Hello!
 
-### Magic
+Meet **Magic**.
